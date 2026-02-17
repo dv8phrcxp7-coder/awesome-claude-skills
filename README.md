@@ -197,7 +197,7 @@ Claude Skills are customizable workflows that teach Claude how to perform specif
 
 ### App Automation via Composio
 
-Pre-built workflow skills for 78 SaaS apps via [Rube MCP (Composio)](https://composio.dev). Each skill includes tool sequences, parameter guidance, known pitfalls, and quick reference tables — all using real tool slugs discovered from Composio's API.
+Pre-built workflow skills for 79 SaaS apps via [Rube MCP (Composio)](https://composio.dev). Each skill includes tool sequences, parameter guidance, known pitfalls, and quick reference tables — all using real tool slugs discovered from Composio's API.
 
 **CRM & Sales**
 - [Close Automation](./close-automation/) - Automate Close CRM: leads, contacts, opportunities, activities, and pipelines.
@@ -304,6 +304,9 @@ Pre-built workflow skills for 78 SaaS apps via [Rube MCP (Composio)](https://com
 
 **HR & People**
 - [BambooHR Automation](./bamboohr-automation/) - Automate BambooHR: employees, time off, reports, and directory management.
+
+**Risk & Compliance**
+- [21risk Automation](./-21risk-automation/) - Automate 21risk tasks via Rube MCP (Composio). Always search tools first for current schemas.
 
 **Automation Platforms**
 - [Make Automation](./make-automation/) - Automate Make (Integromat): scenarios, connections, and execution management.
